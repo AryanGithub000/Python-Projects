@@ -1,1 +1,1 @@
-This ReadME consists of 21 python projects that range from Easy, Medium and Hard
+This ReadME consists of Python projects that range from Easy, Medium and Hard
